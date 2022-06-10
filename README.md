@@ -1,5 +1,9 @@
 # wacs-sert-create-for-IIS
 
+
+router: 192.168.88.251:80 -> 192.168.88.250:80
+
+
 https://trueconf.ru/blog/baza-znaniy/sozdanie-sertifikata-lets-encrypt-na-windows.html
 
 
